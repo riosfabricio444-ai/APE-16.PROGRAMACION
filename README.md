@@ -13,7 +13,7 @@
 | :---  | :---|
 | **En C:** | [📘 Ingresar](bidimen.c)  |
 | **En Java:** | [📗 Ingresar ](Bidi.java)  |
-| **En Phyton:** |[📙 Ingresar](UNIDAD3.md)  |
+| **En Phyton:** |[📙 Ingresar](bidimen_matrices.py)  |
 
 <br>
 
