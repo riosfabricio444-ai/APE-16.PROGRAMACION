@@ -11,7 +11,7 @@
   
 | **CODIGO** | **LINK** | **CASO DE PRUEBA**  |
 | :---  | :---| :--- |
-| **En C:** | [📘 Ingresar](bidimen.c)  | [📘 Ingresar]()  |
+| **En C:** | [📘 Ingresar](bidimen.c)  | [📘 Ingresar](pruebaC.md)  |
 | **En Java:** | [📗 Ingresar ](Bidi.java)  | [📗 Ingresar ](pruebaJava.md)  |
 | **En Phyton:** |[📙 Ingresar](bidimen_matrices.py)  |[📙 Ingresar](PruebaPython.md)  |
 
