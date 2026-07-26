@@ -9,11 +9,12 @@
 
 <div align="center">
   
-| **CODIGO** | **LINK** |
-| :---  | :---|
-| **En C:** | [📘 Ingresar](bidimen.c)  |
-| **En Java:** | [📗 Ingresar ](Bidi.java)  |
-| **En Phyton:** |[📙 Ingresar](bidimen_matrices.py)  |
+| **CODIGO** | **LINK** | **CASO DE PRUEBA**  |
+| :---  | :---| :--- |
+| **En C:** | [📘 Ingresar](bidimen.c)  | [📘 Ingresar](<img width="536" height="800" alt="image" src="https://github.com/user-attachments/assets/97e0162e-207b-4b2f-9725-341e5c63699c" />
+)  |
+| **En Java:** | [📗 Ingresar ](Bidi.java)  | [📗 Ingresar ](Bidi.java)  |
+| **En Phyton:** |[📙 Ingresar](bidimen_matrices.py)  |[📙 Ingresar](bidimen_matrices.py)  |
 
 <br>
 
