@@ -12,7 +12,7 @@
 | **CODIGO** | **LINK** |
 | :---  | :---|
 | **En C:** | [📘 Ingresar](bidimen.c)  |
-| **En Java:** | [📗 Ingresar ](UNIDAD2.md)  |
+| **En Java:** | [📗 Ingresar ](Bidi.java)  |
 | **En Phyton:** |[📙 Ingresar](UNIDAD3.md)  |
 
 <br>
